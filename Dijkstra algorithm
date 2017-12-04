@@ -1,0 +1,5 @@
+Dijkstra algorithm:
+Is a graph search algorithm that solves the single-source shortest path problem for a graph with non-negative edge path costs, producing a shortest path tree.
+This algorithm is often used in routing and as a subroutine in other graph algorithms.
+For a given source vertex (node) in the graph, the algorithm finds the path with lowest cost between that vertex and every other vertex. 
+ 
